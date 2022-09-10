@@ -1,5 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abanga Samuel
 =====================================================================================================================================
+<p align="center">
+<img align="center" height="270px" alt="GIF" src="image.svg" />
+</p>
+<br/>
+
 
 Front-End Developer and Designer
 --------------------------------
