@@ -1,5 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abanga Samuel
 =====================================================================================================================================
+<br/>
 <p align="center">
 <img align="center" height="270px" alt="GIF" src="image.svg" />
 </p>
@@ -19,7 +20,7 @@ A front-end developer who is willing to put in extra effort to learn while work
 <a href="https://www.github.com/psalmpy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/psalmpy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills
+### Top Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -32,9 +33,17 @@ src="https://img.shields.io/github/followers/psalmpy?logo=github&style=for-the-b
 </p>
 
 
-### Socials
 
-<p align="left"> <a href="https://www.facebook.com/psalmpy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/psalmpy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/psalmpy" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### 🙋‍♂️ Connect with me
+<br/>
+<!-- Badges template - https://github.com/badges/shields -->
+<p align="left">
+<a href="https://github.com/psalmpy"><img alt="GitHub" title="GitHub" src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=Github&logoColor=white"/></a>
+  <a href="https://twitter.com/psalmpy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/twitter-blue?style=for-the-badge&logoColor=white&logo=twitter"  /></a>
+  <a href="https://www.facebook.com/psalmpy/"><img alt="Website" title="My Website" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a> 
+  <a href="https://www.linkedin.com/in/psalmpy/"><img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://gmail.com"><img alt="LinkedIn" title="My LinkedIn" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
 
 ### Badges
 
@@ -44,6 +53,5 @@ src="https://img.shields.io/github/followers/psalmpy?logo=github&style=for-the-b
 
 <a href="http://www.github.com/psalmpy"><img src="https://github-readme-streak-stats.herokuapp.com/?user=psalmpy&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/psalmpy"><img src="https://activity-graph.herokuapp.com/graph?username=psalmpy&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/psalmpy" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psalmpy&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
